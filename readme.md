@@ -26,6 +26,11 @@ Here you can find useful resources and guides
 - Railway (hosting, you get $5 credits monthly for free, when you add credit card you get $10 for free) - https://railway.app?referralCode=YEuzh9
 - Hostacks (cheap VPS hosting) - https://store.hostacks.com/aff.php?aff=1
 ------
+### Projects:
+- Example Discord.js v13 bot powered by AnonDev API that is using gcommands handler - https://github.com/AnonDev-org/AnonDev-API-bot
+- A simple plugin for Discord Tickets bot which adds ticket transcripts (with ticket close logging) - https://github.com/AnonDev-org/discord-tickets_transcripts
+- Discord ban appeals fork hostable on replit - https://github.com/AnonDev-org/discord-ban-appeals
+------
 
 
 ## Information
@@ -35,7 +40,8 @@ My website: [anondev.ml](https://anondev.ml)
 
 Ko-fi: [ko-fi.com/anondev](https://ko-fi.com/anondev)
 
-If you need help with something you can open new modmail support thread on [Pinglik Support Server](https://go.anondev.ml/pinglik-support) and we will help you 😉
+If you need help with something you can join [Pinglik Support Server](https://pinglik.eu/support) and ask for help in `#💛｜coding-help-support` channel and we will help you 😉
+
 
 If you would like to support me:<br>
 
