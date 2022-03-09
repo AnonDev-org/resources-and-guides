@@ -23,6 +23,10 @@ Here you can find useful resources and guides
 - Honeygain (earn money by simply sharing your Internet) - https://r.honeygain.me/NAPOV96157
 - EarnApp (earn money from your PC and Linux/Raspberry Pi/Android) - https://earnapp.com/i/pud23bd
 - MoneySMS (earn money by receiving SMS messages on your phone) - https://moneysmsapp.com - Please use my refferal code `90SIA2MN`
+- Peer2Profit (earn money by simply sharing your Internet) - https://p2pr.me/16467687506227b26e56f01
+<a href="https://p2pr.me/16467687506227b26e56f01"><img src="https://peer2profit.com/img/promo/en/p2p-banner-640x100.png" width="640"  height="100" /></a>
+
+
 - Railway (hosting, you get $5 credits monthly for free, when you add credit card you get $10 for free) - https://railway.app?referralCode=YEuzh9
 - Hostacks (cheap VPS hosting) - https://store.hostacks.com/aff.php?aff=1
 ------
