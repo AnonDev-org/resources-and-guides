@@ -6,7 +6,7 @@ Here you can find useful resources and guides
 
 ------
 ### Guides:
-- NodeJS v16 on replit.com - https://go.anondev.ml/replit-nodejsv16
+- NodeJS v16 on replit.com - https://go.anondev.ml/replit-nodejsv16 OR FOR NEW REPLS IT WORKS OUT OF THE BOX
 - Modmail Discord bot hosting on replit.com - https://go.anondev.ml/modmail-replit
 - Modmail Discord bot hosting on railway.app - https://go.anondev.ml/modmail-railway
 - Discord Tickets bot hosting on railway.app - https://go.anondev.ml/discord-tickets-railway
